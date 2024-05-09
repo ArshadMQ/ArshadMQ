@@ -6,7 +6,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://profile-counter.glitch.me/ArshadQ118/count.svg?"/>
 </div>
 
