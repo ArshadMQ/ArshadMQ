@@ -6,8 +6,8 @@
 
 ###
 
-<div align="left">Visitors:
-  <img src="https://profile-counter.glitch.me/ArshadQ118/count.svg?"  />
+<div align="left">
+  <img src="https://profile-counter.glitch.me/ArshadQ118/count.svg?">Visitors:</img>
 </div>
 
 ###
