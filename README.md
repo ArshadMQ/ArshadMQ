@@ -7,12 +7,11 @@
 [![](https://visitcount.itsvg.in/api?id=ArshadMQ&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marshad001) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arshadmq) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?&logo=instagram&logoColor=white)](https://instgram.com/in/__arshad_m_qureshi__) 
 [![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=)](https://discord.com/__arshad_m_qureshi__) 
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=)](mailto:arshadq118@gmail.com)
 [![Twitter](https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=)](https://twitter.com/ArshadMQ)
-[![Slack](https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=)](https://twitter.com/ArshadMQ)
 [![Outlook](https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=)](mailto:connect.arshadmq@outlook.com)
 [![WhatsApp](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=)]()
 
