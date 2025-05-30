@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohd Arshad</h1>
 
 ###
-<h3 align="center">A Passionate Technical Lead - Python Full Stack & Sr. DevOps Engineer from India</h3>
+<h3 align="center">A Passionate Technical Lead - Full Stack & Sr. DevOps Engineer from India</h3>
 
 ###
 [![](https://visitcount.itsvg.in/api?id=ArshadMQ&icon=0&color=0)](https://visitcount.itsvg.in)
